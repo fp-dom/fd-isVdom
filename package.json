@@ -1,6 +1,6 @@
 {
   "name": "fd-isvdom",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if an object is a virtual dom object",
   "main": "index.js",
   "scripts": {
